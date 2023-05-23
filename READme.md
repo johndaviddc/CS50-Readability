@@ -20,5 +20,8 @@ gcc readability.c -o readability
 ./readability
 ```
 
+
 ## How to use
 When prompted, enter the text you would like to analyze. The program will output the grade level of the text.
+
+
